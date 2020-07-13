@@ -14,4 +14,4 @@ print("hello")
 
 ## This is my colab!
 
-https://github.com/noahgift/coderz/blob/master/hello.ipynb
+[My Colab Notebook with Hello](https://github.com/noahgift/coderz/blob/master/hello.ipynb)
